@@ -50,7 +50,7 @@ hr {
 }
 
 .popover_mask {
-   background-color: rgba(0, 0, 0, 0.3);
+   background-color: rgba(53, 50, 50, 0.3);
 }
 
 /* Team Picker */
@@ -1075,7 +1075,7 @@ ts-jumper, ts-jumper.active {
   background-color: rgba(32,32,32,0.6);
 }
 ts-jumper ts-jumper-container {
-  box-shadow: 0 5px 20px rgba(0,0,0,1);
+  box-shadow: 0 5px 20px rgba(67,67,0,1);
 }
 
 /* app badge */
