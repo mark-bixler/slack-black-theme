@@ -258,7 +258,7 @@ li.active[class] span,
    /*inverted because important*/
    background-color: var(--border-bright) !important;
    border-color: var(--text-bright);
-   color: var(--text-bright);
+   color: var(--primary-bright);
 }
 
 /*also add border to unread count for individual channels*/
