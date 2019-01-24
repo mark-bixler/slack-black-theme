@@ -100,7 +100,7 @@ body:not(.loading) #team_menu:active {
 .p-channel_sidebar__link--invites:not(.p-channel_sidebar__link--dim) .p-channel_sidebar__name,
 .p-channel_sidebar__section_heading_label--clickable:hover,
 .p-channel_sidebar__quickswitcher:hover {
-   color: var(--text-bright) !important;
+   color: var(--primary-bright) !important;
 }
 
 /*broken*/
